@@ -144,7 +144,7 @@ class CommonController extends Controller
                 ['title' => __('lang.baraaniiner')],
                 ['title' => __('lang.itemlisttypename')],
                 ['title' => __('lang.hemjihcode')],
-                /* ['title' => __('lang.hemjihnegj')], */
+                ['title' => __('lang.hemjihnegj')], 
                 ['title' => __('lang.baraaniibarcode')],
             ],
             'order' => [
