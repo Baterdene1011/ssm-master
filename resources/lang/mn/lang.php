@@ -52,7 +52,7 @@ return [
        * Module
        */
       'itemtypename' => 'Нэр',
-      'dialogitemtypename' => 'Барааны төрөл2',
+      'dialogitemtypename' => 'Барааны төрөл',
       'dialogitemtypenameedit' => 'Барааны төрөл засах',
       'item' => 'Бараа',
       'itemname' => 'Барааны нэр',
@@ -66,5 +66,6 @@ return [
       'itemprice' => 'Үнэ',
       'route' => 'Маршрут',
       'datesaleitemprice' => 'Эхлэх дуусах огноо',
+      'hemjihcode' => 'Хэмжих нэгж'
    ];
 ?>
