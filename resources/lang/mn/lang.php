@@ -67,6 +67,7 @@ return [
       'route' => 'Маршрут',
       'datesaleitemprice' => 'Эхлэх дуусах огноо',
       'hemjihcode' => 'Хэмжих нэгж',
-      'baraaniiner' => 'Барааны нэр'
+      'baraaniiner' => 'Барааны нэр',
+      'baraaniicode' => 'Барааны код'
    ];
 ?>
