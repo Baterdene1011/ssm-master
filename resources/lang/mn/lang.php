@@ -68,6 +68,8 @@ return [
       'datesaleitemprice' => 'Эхлэх дуусах огноо',
       'hemjihcode' => 'Хэмжих нэгж',
       'baraaniiner' => 'Барааны нэр',
-      'baraaniicode' => 'Барааны код'
+      'baraaniicode' => 'Барааны код',
+      'chooseitem' => 'Барааны жагсаалт',
+      'baraaniibarcode' => 'Баркод'
    ];
 ?>
