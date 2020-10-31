@@ -120,7 +120,7 @@
                         <th>@lang('lang.baraaniicode')</th>
                         <th>@lang('lang.baraaniiner')</th>
                         <th>@lang('lang.baraaniibarcode')</th>
-                        
+                        <th>@lang('lang.hemjihnegj')</th>
                         <th>@lang('lang.jin')</th>
                         <th>@lang('lang.hairtsagdahitoo')</th>
                         <th>@lang('lang.hairtsagniitoo')</th>
