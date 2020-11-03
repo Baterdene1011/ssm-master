@@ -89,6 +89,6 @@ return [
       'zahialgiindugaar' => 'Захиалгын дугаар',
       'zahialgiinognoo' => 'Захиалгын огноо',
       'hurgeltiinognoo' => 'Хүргэлтийн огноо',
-      'tolboriinhelber' => 'Төлбөрийн хэлбэр'
+      'tolboriinhelber' => 'Төлбөрийн хэлбэ'
    ];
 ?>
